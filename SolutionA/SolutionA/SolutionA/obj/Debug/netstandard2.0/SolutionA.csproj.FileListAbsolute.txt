@@ -1,0 +1,11 @@
+C:\Users\Martin\ownCloud\Programming\TestSolution\SolutionA\SolutionA\SolutionA\bin\Debug\netstandard2.0\SolutionA.deps.json
+C:\Users\Martin\ownCloud\Programming\TestSolution\SolutionA\SolutionA\SolutionA\bin\Debug\netstandard2.0\SolutionA.dll
+C:\Users\Martin\ownCloud\Programming\TestSolution\SolutionA\SolutionA\SolutionA\bin\Debug\netstandard2.0\SolutionA.pdb
+C:\Users\Martin\ownCloud\Programming\TestSolution\SolutionA\SolutionA\SolutionA\obj\Debug\netstandard2.0\SolutionA.csprojResolveAssemblyReference.cache
+C:\Users\Martin\ownCloud\Programming\TestSolution\SolutionA\SolutionA\SolutionA\obj\Debug\netstandard2.0\SolutionA.csproj.CoreCompileInputs.cache
+C:\Users\Martin\ownCloud\Programming\TestSolution\SolutionA\SolutionA\SolutionA\obj\Debug\netstandard2.0\SolutionA.App.xaml.g.cs
+C:\Users\Martin\ownCloud\Programming\TestSolution\SolutionA\SolutionA\SolutionA\obj\Debug\netstandard2.0\SolutionA.MainPage.xaml.g.cs
+C:\Users\Martin\ownCloud\Programming\TestSolution\SolutionA\SolutionA\SolutionA\obj\Debug\netstandard2.0\SolutionA.AssemblyInfoInputs.cache
+C:\Users\Martin\ownCloud\Programming\TestSolution\SolutionA\SolutionA\SolutionA\obj\Debug\netstandard2.0\SolutionA.AssemblyInfo.cs
+C:\Users\Martin\ownCloud\Programming\TestSolution\SolutionA\SolutionA\SolutionA\obj\Debug\netstandard2.0\SolutionA.dll
+C:\Users\Martin\ownCloud\Programming\TestSolution\SolutionA\SolutionA\SolutionA\obj\Debug\netstandard2.0\SolutionA.pdb

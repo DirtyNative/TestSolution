@@ -1,0 +1,1 @@
+C:\Users\Martin\ownCloud\Programming\TestSolution\SolutionA\SolutionA\SolutionA.UWP\SolutionA.UWP.csproj;x86

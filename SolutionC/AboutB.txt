@@ -1,0 +1,1 @@
+This Solution is also a Shared Project, which is referenced by C, but references A

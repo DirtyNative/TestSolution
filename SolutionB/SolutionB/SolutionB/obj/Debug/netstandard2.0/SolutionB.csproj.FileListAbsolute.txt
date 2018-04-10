@@ -1,0 +1,14 @@
+C:\Users\Martin\ownCloud\Programming\TestSolution\SolutionB\SolutionB\SolutionB\bin\Debug\netstandard2.0\SolutionB.deps.json
+C:\Users\Martin\ownCloud\Programming\TestSolution\SolutionB\SolutionB\SolutionB\bin\Debug\netstandard2.0\SolutionB.dll
+C:\Users\Martin\ownCloud\Programming\TestSolution\SolutionB\SolutionB\SolutionB\bin\Debug\netstandard2.0\SolutionB.pdb
+C:\Users\Martin\ownCloud\Programming\TestSolution\SolutionB\SolutionB\SolutionB\bin\Debug\netstandard2.0\SolutionA.dll
+C:\Users\Martin\ownCloud\Programming\TestSolution\SolutionB\SolutionB\SolutionB\bin\Debug\netstandard2.0\SolutionA.pdb
+C:\Users\Martin\ownCloud\Programming\TestSolution\SolutionB\SolutionB\SolutionB\obj\Debug\netstandard2.0\SolutionB.csprojResolveAssemblyReference.cache
+C:\Users\Martin\ownCloud\Programming\TestSolution\SolutionB\SolutionB\SolutionB\obj\Debug\netstandard2.0\SolutionB.csproj.CoreCompileInputs.cache
+C:\Users\Martin\ownCloud\Programming\TestSolution\SolutionB\SolutionB\SolutionB\obj\Debug\netstandard2.0\SolutionB.App.xaml.g.cs
+C:\Users\Martin\ownCloud\Programming\TestSolution\SolutionB\SolutionB\SolutionB\obj\Debug\netstandard2.0\SolutionB.MainPage.xaml.g.cs
+C:\Users\Martin\ownCloud\Programming\TestSolution\SolutionB\SolutionB\SolutionB\obj\Debug\netstandard2.0\SolutionB.AssemblyInfoInputs.cache
+C:\Users\Martin\ownCloud\Programming\TestSolution\SolutionB\SolutionB\SolutionB\obj\Debug\netstandard2.0\SolutionB.AssemblyInfo.cs
+C:\Users\Martin\ownCloud\Programming\TestSolution\SolutionB\SolutionB\SolutionB\obj\Debug\netstandard2.0\SolutionB.csproj.CopyComplete
+C:\Users\Martin\ownCloud\Programming\TestSolution\SolutionB\SolutionB\SolutionB\obj\Debug\netstandard2.0\SolutionB.dll
+C:\Users\Martin\ownCloud\Programming\TestSolution\SolutionB\SolutionB\SolutionB\obj\Debug\netstandard2.0\SolutionB.pdb

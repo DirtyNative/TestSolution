@@ -1,0 +1,16 @@
+C:\Users\Martin\ownCloud\Programming\TestSolution\SolutionC\SolutionC\SolutionC\bin\Debug\netstandard2.0\SolutionC.deps.json
+C:\Users\Martin\ownCloud\Programming\TestSolution\SolutionC\SolutionC\SolutionC\bin\Debug\netstandard2.0\SolutionC.dll
+C:\Users\Martin\ownCloud\Programming\TestSolution\SolutionC\SolutionC\SolutionC\bin\Debug\netstandard2.0\SolutionC.pdb
+C:\Users\Martin\ownCloud\Programming\TestSolution\SolutionC\SolutionC\SolutionC\bin\Debug\netstandard2.0\SolutionA.dll
+C:\Users\Martin\ownCloud\Programming\TestSolution\SolutionC\SolutionC\SolutionC\bin\Debug\netstandard2.0\SolutionB.dll
+C:\Users\Martin\ownCloud\Programming\TestSolution\SolutionC\SolutionC\SolutionC\bin\Debug\netstandard2.0\SolutionA.pdb
+C:\Users\Martin\ownCloud\Programming\TestSolution\SolutionC\SolutionC\SolutionC\bin\Debug\netstandard2.0\SolutionB.pdb
+C:\Users\Martin\ownCloud\Programming\TestSolution\SolutionC\SolutionC\SolutionC\obj\Debug\netstandard2.0\SolutionC.csprojResolveAssemblyReference.cache
+C:\Users\Martin\ownCloud\Programming\TestSolution\SolutionC\SolutionC\SolutionC\obj\Debug\netstandard2.0\SolutionC.csproj.CoreCompileInputs.cache
+C:\Users\Martin\ownCloud\Programming\TestSolution\SolutionC\SolutionC\SolutionC\obj\Debug\netstandard2.0\SolutionC.App.xaml.g.cs
+C:\Users\Martin\ownCloud\Programming\TestSolution\SolutionC\SolutionC\SolutionC\obj\Debug\netstandard2.0\SolutionC.MainPage.xaml.g.cs
+C:\Users\Martin\ownCloud\Programming\TestSolution\SolutionC\SolutionC\SolutionC\obj\Debug\netstandard2.0\SolutionC.AssemblyInfoInputs.cache
+C:\Users\Martin\ownCloud\Programming\TestSolution\SolutionC\SolutionC\SolutionC\obj\Debug\netstandard2.0\SolutionC.AssemblyInfo.cs
+C:\Users\Martin\ownCloud\Programming\TestSolution\SolutionC\SolutionC\SolutionC\obj\Debug\netstandard2.0\SolutionC.csproj.CopyComplete
+C:\Users\Martin\ownCloud\Programming\TestSolution\SolutionC\SolutionC\SolutionC\obj\Debug\netstandard2.0\SolutionC.dll
+C:\Users\Martin\ownCloud\Programming\TestSolution\SolutionC\SolutionC\SolutionC\obj\Debug\netstandard2.0\SolutionC.pdb

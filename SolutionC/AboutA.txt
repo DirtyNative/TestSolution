@@ -1,0 +1,1 @@
+This Solution is a Shared Library which is referenced by B and C
